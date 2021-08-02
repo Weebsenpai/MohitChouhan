@@ -1,7 +1,10 @@
 //best font 
-@import url('http://fonts.cdnfonts.com/css/bogart');
+@font-face {
+  font-family: Bogart;
+  src: url("./Bogart-Medium-trial.ttf");
+}
 .font-use{
-  font-family: 'Bogart';
+  font-family: Bogart;
 }
 
 
