@@ -1,14 +1,14 @@
 //best font 
 @font-face {
   font-family: Bogart;
-  src: url("./Bogart-Medium-trial.ttf");
+  src: url("/Bogart-Medium-trial.ttf");
 }
+
 @import url('http://fonts.cdnfonts.com/css/bogart');
 .font-use{
+  font-family: 'Bogart', sans-serif;
   font-family: Bogart;
 }
-
-
 
 /*  ///////////////////////// Navigation bar  ///////////////////////// */
 
